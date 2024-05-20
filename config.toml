@@ -20,7 +20,7 @@
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "j"
+  userName = "jay"
   pcName = "librarian.live"
   workDir = "ai"
   profile = "profile"
@@ -47,34 +47,30 @@
   # activityDelay = 5 : deprecated
 
   description = """  
-  Hey!  I'm LLAI.  
-  Short for Librarian.Live AI.
+  Hey!  I'm LAI.  
+  Short for Librarian AI.
   Nice to meet you!
   
-  Come here looking to learn
-  about what we have on offer
-  for your local library?  Awesome!  
+  Looking to learn about what we have
+  on offer for your local library?
+  Awesome!  
   
-  In a nutshell, we help your
-  local library unlock the Library
-  of the Internet:
-
-  The world of free and
-  open-source technology.
+  In a nutshell, we help your local
+  library save money and unlock the
+  the world of free and open-source
+  technology.
   
-  Like little mini-apps on each desktop
-  that when clicked open up things
-  like chat apps, community-focused apps,
-  learning resources,
-  and even apps for power users and
-  business professionals. 
+  The library of the digital world!
   
-  We are just getting started.
-  In the meantime, please sign up at
-  Dojos to stay informed or reach out
-  directly with questions.  Thanks! 
+  Imagine mini-apps on each desktop that
+  when clicked open up things like chat
+  apps, community-focused apps,
+  learning resources, even things for
+  power users and business professionals. 
   
-  --LLAI out
+  We are just getting started.  Please sign
+  up at Dojos to stay informed or reach out
+  directly with questions.  Thanks!--LAI out
   """
 
   # Note: If you want to use a Markdown file, you can use the following
