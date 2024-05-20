@@ -20,8 +20,8 @@
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jay"
-  pcName = "theopen.app"
+  userName = "j"
+  pcName = "librarian.live"
   workDir = "ai"
   profile = "profile"
 
@@ -46,23 +46,36 @@
 
   # activityDelay = 5 : deprecated
 
-  description = """
-  
-  Hey!  I'm DAI.  
-  Short for Dojos AI.
+  description = """  
+  Hey!  I'm LLAI.  
+  Short for Librarian.Live AI.
   Nice to meet you!
   
   Come here looking to learn
-  more about the Open app?
-  Awesome!  
+  about what we have on offer
+  for your local library?  Awesome!  
   
-  We're working on it!
-  
-  In the meantime, sign up to stay 
-  informed or reach out directly
-  with questions.  Thanks! --DAI
-  
+  In a nutshell, we help your
+  local library unlock the Library
+  of the Internet:
 
+  The world of free and
+  open-source technology.
+  
+  Think of it like little mini-apps
+  on the desktop of each workstation
+  that when clicked open up things
+  like chat apps, other community-
+  focused apps, learning resources,
+  and even apps for power users and
+  business professionals. 
+  
+  We are just getting started.
+  In the meantime, please sign up to
+  stay informed or reach out directly
+  with questions.  Thanks! 
+  
+  --LLAI out
   """
 
   # Note: If you want to use a Markdown file, you can use the following
