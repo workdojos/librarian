@@ -47,7 +47,6 @@
   # activityDelay = 5 : deprecated
 
   description = """  
-  
   Hey!  I'm LAI. Short for Librarian AI.
   Nice to meet you!
   
@@ -57,13 +56,15 @@
   We help libraries save money and unlock the
   world of free and open-source technology.
   
-  The library of the digital world! Mini-apps for
-  things like chat, community-building, learning,
-  even for power users and business professionals. 
+  The library of the digital world! 
+  
+  Mini-apps for things like chat, building
+  community, learning, even things for power
+  users and business professionals. 
   
   Please sign up at Dojos or reach out
   with questions. Thanks! --LAI out
-  
+
   """
 
   # Note: If you want to use a Markdown file, you can use the following
