@@ -62,18 +62,17 @@
   The world of free and
   open-source technology.
   
-  Think of it like little mini-apps
-  on the desktop of each workstation
+  Like little mini-apps on each desktop
   that when clicked open up things
-  like chat apps, other community-
-  focused apps, learning resources,
+  like chat apps, community-focused apps,
+  learning resources,
   and even apps for power users and
   business professionals. 
   
   We are just getting started.
-  In the meantime, please sign up to
-  stay informed or reach out directly
-  with questions.  Thanks! 
+  In the meantime, please sign up at
+  Dojos to stay informed or reach out
+  directly with questions.  Thanks! 
   
   --LLAI out
   """
@@ -87,9 +86,10 @@
   folderName = "help"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Chat now", "https://chat.workmates.live/channel/support?layout=embedded"],
+    ["Chat now", "https://chat.workmates.live/channel/librarian?layout=embedded"],
     ["Send e-mail", "mailto:support@workdojos.com"],
-    ["Sign up", "https://blog.workdojos.com/open-app-beta"],
+    ["Learn more", "https://workdojos.com"],    
+    ["Sign up", "https://blog.workdojos.com/#/portal/signup"],
   ]
 
 
